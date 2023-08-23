@@ -61,7 +61,5 @@
   <data name="Property_Name" xml:space="preserve">
     <value>Имя</value>
   </data>
-  <data name="Property_Responsible" xml:space="preserve">
-    <value>Ссылка</value>
   </data>
 </root>
